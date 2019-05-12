@@ -1,0 +1,23 @@
+h2, h5{
+
+
+
+
+
+    font-family: 'Ultra', serif;
+
+
+
+
+}
+body {
+background-color: chartreuse;
+}
+.card {
+    width: 33%;
+}
+@media (max-width: 576px) {
+    .card {
+        width:100%;
+    }
+ }
